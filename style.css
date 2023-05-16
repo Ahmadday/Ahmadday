@@ -11,20 +11,17 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 100vw;
-
 }
 
 .card{
     background-color: white;
-    width: 300px;
+    width: 250px;
     height:400px;
-    padding:2.5%;
-    padding-bottom:.5%;
+    padding:2%;
     border-radius: 5%;
 }
 .qr{
-    max-width: 300px;
+    max-width: 250px;
     border-radius: 5%;
 }
 
