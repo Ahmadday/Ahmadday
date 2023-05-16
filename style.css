@@ -16,8 +16,8 @@ body{
 .card{
     background-color: white;
     width: 250px;
-    height:400px;
-    padding:2%;
+    height:425px;
+    padding:1%;
     border-radius: 5%;
 }
 .qr{
